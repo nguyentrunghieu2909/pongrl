@@ -29,9 +29,10 @@ The following plot illustrates the average performance of the reinforcement lear
 1. for pong.py code (has not been able to beat Pong)
 2. for Karpathy's code (constantly score around 14 points)
 
-Video of the  model pre train
+Video of the  model pre train\
 ![pretrain-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/dbdbc8c9-3595-492c-8342-fc40f2dcf146)
-Video of the trained model (80000 eps)
+
+Video of the trained model (80000 eps)\
 ![trained-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b48a3683-c602-4771-830b-2397cf948a21)
 
 
